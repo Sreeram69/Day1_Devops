@@ -1,0 +1,5 @@
+Learning about Devops Day1
+
+Git & Github      -----  6weeks
+docker & kubernates  --  6weeks
+python & java       ---  6weeks
